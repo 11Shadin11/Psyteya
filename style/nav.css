@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EFE8DE;
+}
+
+.container {
+  width: 80%;
+  height: 100%;
+  border-bottom: 1px solid #E6D1BF;
+}
+
+.nav-row {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-family: Mulino;
+  color: #BB865F;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.navigation span{
+  font-size: 18px;
+  padding: 0 10px;
+}

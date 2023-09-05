@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Mulish';
+  src: local('Mulish'), local('Mulish'),
+    url('./Mulish-Italic-VariableFont_wght.ttf') format('ttf'),
+    url('./Mulish-VariableFont_wght.ttf') format('ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+.text-24 {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-size: 24px;
+}
